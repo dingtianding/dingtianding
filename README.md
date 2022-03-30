@@ -10,7 +10,15 @@ My name is Dean. I'm a full stack software engineer and web developer based in N
 
 ## Projects
 
-### Coming Soon!
+### [Underhood](https://aa-underhood.herokuapp.com/#/)
+A fullstack clone of Robinhood, built on a Ruby on Rails backend and React Redux frontend
+
+### [mapStatestoPost](https://mapstatestopost.herokuapp.com/#/)
+A MERN stack group project with [Ka Yi Leung](https://github.com/KayiLeung), [Sean Mackey](https://github.com/smackey15), [Yao Xu](https://github.com/yuhmanashi)
+
+### [Tesla, Media and Twitter](https://dingtianding.github.io/TMT/)
+A vanilla javascript tennis video game, animated with Canvas
+
 
 ## Github Stats
 
