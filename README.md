@@ -17,7 +17,7 @@ A fullstack clone of Robinhood, built on a Ruby on Rails backend and React Redux
 A MERN stack group project with [Ka Yi Leung](https://github.com/KayiLeung), [Sean Mackey](https://github.com/smackey15), [Yao Xu](https://github.com/yuhmanashi)
 
 ### [Tesla, Media and Twitter](https://dingtianding.github.io/TMT/)
-A vanilla javascript tennis video game, animated with Canvas
+A vanilla javascript data visualization tool of Tesla with integration with APIs that fetches news and social medias.
 
 
 ## Github Stats
