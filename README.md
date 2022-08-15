@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World!  👋
 
 My name is Dean. I'm a full stack software engineer and web developer based in New York City.
 
