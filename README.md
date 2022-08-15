@@ -16,7 +16,7 @@ A fullstack clone of Robinhood, built on a Ruby on Rails backend and React Redux
 ### [mapStatestoPost](https://mapstatestopost.herokuapp.com/#/)
 A MERN stack group project with [Ka Yi Leung](https://github.com/KayiLeung), [Sean Mackey](https://github.com/smackey15), [Yao Xu](https://github.com/yuhmanashi)
 
-### [ElonBoard] - Back Soon!
+### [ElonBoard] - BRB!
 A vanilla javascript data visualization tool with integration with APIs that fetches Tesla's 1. stock price graph 2. current events 3. twitter feeds 4. weather based on Elon Musk's current location.
 
 ## Github Stats
