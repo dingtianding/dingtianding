@@ -1,6 +1,6 @@
 ### Hello, World!  👋
 
-My name is Dean. I'm a full stack software engineer and web developer based in New York City.
+My name is Dean. I'm a full stack software engineer and web developer based in New York City. I have a passion for putting practical experiences and crazy ideas into accessible technology for everyone.
 
 ## Skills
 - 👨‍💻 JavaScript, Ruby, Python
