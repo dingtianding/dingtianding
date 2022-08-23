@@ -19,7 +19,7 @@ A MERN stack group project with [Ka Yi Leung](https://github.com/KayiLeung), [Se
 ### [ElonBoard](https://dingtianding.github.io/TMT/) BRB!
 A vanilla javascript data visualization tool with integration with APIs that fetches stock price graph as well as current events and social media updates.
 
-### [Castlevania97] Coming soon!
+### [Castlevania97](https://github.com/dingtianding/Castlevania97) Coming soon!
 A javascript browser game based on retro game series of Castlevania and KOF97.
 
 ## Github Stats
