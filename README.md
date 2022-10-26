@@ -13,10 +13,10 @@ My name is Dean. I'm a full stack software engineer and web developer based in N
 ### [Underhood](https://aa-underhood.herokuapp.com/#/)
 A fullstack clone of Robinhood, built on a Ruby on Rails backend and React Redux frontend
 
-### [mapStatestoPost](https://mapstatestopost.herokuapp.com/#/)
+### [mapStatestoPost](https://mapstatestoposts.herokuapp.com/#/)
 A MERN stack group project with [Ka Yi Leung](https://github.com/KayiLeung), [Sean Mackey](https://github.com/smackey15), [Yao Xu](https://github.com/yuhmanashi)
 
-### [Castlevania97](https://github.com/dingtianding/Castlevania97) Coming soon!
+### [Castlevania97](https://github.com/dingtianding/Castlevania97)
 A Vanila javascript browser game based on retro game series of Castlevania and KOF97.
 
 ## Github Stats
