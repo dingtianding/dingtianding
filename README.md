@@ -6,7 +6,7 @@ My name is Dean. I'm a full stack software engineer and web developer based in N
 - 🌱 I’m currently learning Typescript and React Hooks.
 - 💬 Ask me about something to do in NYC
 - 📫 How to reach me: Email or Linkedin
-- ⚡ Fun fact: I have one dog, one cat, two chickens.
+- ⚡ Fun fact: I have one dog, one cat and two chickens.
 - 
 ## Skills
 - 👨‍💻 JavaScript, Ruby, Python
