@@ -2,7 +2,7 @@
 
 My name is Dean. I'm a full stack software engineer and web developer based in New York City.
 
-- 🌱 I’m currently learning Firebase and Blockchain Dev(Solana).
+- 🌱 I’m currently learning Firebase and Blockchain.
 - 💬 Ask me about something to do in NYC
 - 📫 How to reach me: Email or Linkedin
 - ⚡ Fun fact: I have one dog, two cats and two chickens.
