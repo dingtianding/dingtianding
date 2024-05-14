@@ -2,16 +2,16 @@
 
 My name is Dean. I'm a full stack software engineer and web developer based in New York City.
 
-- 🌱 I’m currently learning Python and Typescripts.
+- 🌱 I’m currently learning Firebase and Blockchain Dev(Solana).
 - 💬 Ask me about something to do in NYC
 - 📫 How to reach me: Email or Linkedin
-- ⚡ Fun fact: I have one dog, one cat and two chickens.
+- ⚡ Fun fact: I have one dog, two cats and two chickens.
 
 ## Skills
-- 👨‍💻 JavaScript, Ruby, Python
-- ⚙️ Ruby on Rails, Node.js, Express.js, MongoDB, Mongoose
+- 👨‍💻 Java, JavaScript Python, C#, Ruby
+- ⚙️ Spring Boot, Ruby on Rails, Node.js, Express.js, MongoDB, Mongoose
 - 👁️ CSS, HTML5, React, Redux
-- 💽 SQL, Git, jQuery, AWS S3, Heroku, Webpack
+- 💽 SQL, Git, jQuery, AWS S3, Heroku, Webpack, Docker
 
 ## Projects
 
