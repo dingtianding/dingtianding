@@ -1,6 +1,6 @@
 ### Hello, World!  👋
 
-My name is Dean. I'm a full stack software engineer and web developer based in New York City.
+My name is Dean. I'm a full stack software engineer based in New York City.
 
 - 🌱 I’m currently learning Firebase and Blockchain.
 - 💬 Ask me about something to do in NYC
