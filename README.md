@@ -13,14 +13,6 @@ My name is Dean. I'm a full stack software engineer based in New York City.
 - 👁️ CSS, HTML5, React, Redux
 - 💽 SQL, Git, jQuery, AWS S3, Heroku, Webpack, Docker
 
-## Projects
-
-### [Underhood](https://aa-underhood.herokuapp.com/#/)
-A fullstack clone of Robinhood, built on a Ruby on Rails backend and React Redux frontend
-
-### [mapStatestoPost](https://mapstatestoposts.herokuapp.com/#/)
-A MERN stack group project with [Ka Yi Leung](https://github.com/KayiLeung), [Sean Mackey](https://github.com/smackey15), [Yao Xu](https://github.com/yuhmanashi)
-
 ## Github Stats
 
 
