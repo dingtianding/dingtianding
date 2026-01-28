@@ -13,10 +13,6 @@ My name is Dean. I'm a full stack software engineer based in New York City.
 - 👁️ CSS, HTML5, React, Redux
 - 💽 SQL, Git, jQuery, AWS S3, Heroku, Webpack, Docker
 
-## Github Stats
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dingtianding&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
