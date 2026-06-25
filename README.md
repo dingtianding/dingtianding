@@ -1,31 +1,23 @@
-### Hello, World!  👋
+### Hi, I'm Dean 👋
 
-My name is Dean. I'm a full stack software engineer based in New York City.
+CPA turned software engineer. I spent ~8 years in public accounting and tax (PwC, then CPA consulting) before moving into software — so I build the tools I used to wish existed.
 
-- 🌱 I’m currently learning Python and Blockchain.
-- 💬 Ask me about something to do in NYC
-- 📫 How to reach me: Email or Linkedin
-- ⚡ Fun fact: I have one dog, two cats and 14 chickens.
+🔭 **What I'm building now:** vertical AI for finance and accounting — agents that propose *reviewable, deterministic* changes you approve, not black-box answers. A few threads:
 
-## Skills
-- 👨‍💻 JavaScript, Python, Java, Ruby
-- ⚙️ Node.js, Express.js, Django, FastAPI, Flask, Spring Boot, Rails, MongoDB, Mongoose
-- 👁️ CSS, HTML5, React, Redux
-- 💽 SQL, Git, jQuery, AWS S3, Heroku, Webpack, Docker
+- **Xelsius** — "Cursor for accountants": an agent that reads financial data and proposes deterministic, reviewable diffs.
+- **CPA Copilot** — a screen-aware desktop overlay that reads your accounting software and answers in context.
+- **CPA Practice** — a full-stack practice-management platform with agents in the loop.
+- **FilingLens** — SEC/EDGAR filing analytics: XBRL normalization, filing diffing, and company comparison.
 
+🛠️ **Stack I reach for**
+- **Languages:** TypeScript, Python, Java, Ruby
+- **Frontend:** React, Next.js, Vue, Tailwind, Vite
+- **Backend:** FastAPI, Flask, Express, Spring Boot, Rails · PostgreSQL, Redis, SQLAlchemy
+- **Cloud / infra:** AWS (EC2, RDS, S3, Lambda, VPC), Docker, GitHub Actions, Nginx
+- **AI:** LLM agents, tool use, RAG, deterministic pipelines
 
+🎓 M.S. Computer Science at Georgia Tech (OMSCS, in progress) · App Academy · B.S. Accounting (SUNY Binghamton)
 
-<!--
-**dingtianding/dingtianding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏆 1st place, App Academy 2023 Hackathon (Aurora, an AI wellness app) · built Fire Drill XR at MIT Reality Hack 2024
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me:** [dingtian.ding@gmail.com](mailto:dingtian.ding@gmail.com) · [LinkedIn](https://linkedin.com/in/deanding) · [Portfolio](https://dingtianding.github.io)
