@@ -19,6 +19,6 @@ CPA turned software engineer. I spent ~8 years in public accounting and tax (PwC
 
 🎓 M.S. Computer Science, Georgia Tech (OMSCS) · App Academy · B.S. Accounting (SUNY Binghamton)
 
-🏆 1st place, App Academy 2023 Hackathon (Aurora, an AI wellness app) · built Fire Drill XR at MIT Reality Hack 2024
+🏆 1st place, App Academy 2024 Hackathon (Aurora, an AI wellness app) · built Fire Drill XR at MIT Reality Hack 2024
 
 📫 **Reach me:** [dingtian.ding@gmail.com](mailto:dingtian.ding@gmail.com) · [LinkedIn](https://linkedin.com/in/deanding) · [Portfolio](https://dingtianding.github.io)
