@@ -24,4 +24,6 @@ Not software that *helps* people do the work — agents that **do the work**, pr
 
 🏆 1st place, App Academy 2024 Hackathon (Aurora, an AI wellness app) · built Fire Drill XR at MIT Reality Hack 2024
 
+🎮 **Between builds:** hacking on a Castlevania-style HTML-canvas game, and a Kalshi-flavored prediction-market / sports-betting clone.
+
 📫 **Reach me:** [dingtian.ding@gmail.com](mailto:dingtian.ding@gmail.com) · [LinkedIn](https://linkedin.com/in/deanding) · [Portfolio](https://dingtianding.github.io)
