@@ -1,6 +1,6 @@
 ### Hi, I'm Dean 👋
 
-CPA turned software engineer. I spent ~8 years in public accounting and tax (PwC, then CPA consulting) before moving into software — so I build the tools, and increasingly the *services*, I used to wish existed.
+CPA turned software engineer. My background is public accounting and tax (PwC, then CPA consulting) — now I build the tools, and increasingly the *services*, I used to wish existed.
 
 ## 🏛️ DCB — an AI-Native Service Company
 
