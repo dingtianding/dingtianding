@@ -13,6 +13,20 @@ Not software that *helps* people do the work — agents that **do the work**, pr
 
 > Also building **Open Claw Life Coach** — a separate personal project: an agent that accumulates context across goals, career, health, and projects with layered memory and a decision log.
 
+## 🗓️ Weekly standup
+_Week of Jul 2, 2026_
+
+**Last week**
+- Took **DCB Public** (the money & investing advisor) end-to-end — hybrid semantic + keyword retrieval, an answer-feedback loop that turns 👎s into a content-gap queue, server-rendered pages + sitemap for SEO, a freemium meter, and cost controls (LLM answer cache + per-user rate limiting), on Alembic-managed Postgres.
+- Built **DCB Copilot** self-quantification — the overlay records *how* I work (per-turn context, 👍/👎 outcomes, time-by-app) and a Coach turns it into concrete "how to improve" advice; on-device, text-only, no keylogging.
+
+**This week**
+- Deploy DCB Public live (Render).
+- Dogfood DCB Copilot to accumulate real session data.
+
+**Blockers**
+- The imitation agent (an agent that clones how I approach problems) is gated on accumulating enough real recorded sessions first — no shortcut to the training data.
+
 🛠️ **Stack I reach for**
 - **Languages:** TypeScript, Python, Java, Ruby
 - **Frontend:** React, Next.js, Vue, Tailwind, Vite
