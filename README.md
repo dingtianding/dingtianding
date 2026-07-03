@@ -11,8 +11,6 @@ Not software that *helps* people do the work — agents that **do the work**, pr
 - **DCB Research** — a research platform over SEC filings, XBRL, and federal/state tax sources; the source-data backbone **DCB Public** distills from.
 - **DCB Public** — a vetted money & investing knowledge base with a citation-grounded AI advisor.
 
-> Also building **Open Claw Life Coach** — a separate personal project: an agent that accumulates context across goals, career, health, and projects with layered memory and a decision log.
-
 ## 🗓️ Weekly standup
 _Week of Jul 2, 2026_
 
