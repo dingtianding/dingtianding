@@ -12,15 +12,18 @@ Not software that *helps* people do the work — agents that **do the work**, pr
 - **DCB Public** — a vetted money & investing knowledge base with a citation-grounded AI advisor.
 
 ## 🗓️ Weekly standup
-_Week of Jul 2, 2026_
+_Week of Jul 6, 2026_
 
 **Last week**
-- Took **DCB Public** (the money & investing advisor) end-to-end — hybrid semantic + keyword retrieval, an answer-feedback loop that turns 👎s into a content-gap queue, server-rendered pages + sitemap for SEO, a freemium meter, and cost controls (LLM answer cache + per-user rate limiting), on Alembic-managed Postgres.
-- Built **DCB Copilot** self-quantification — the overlay records *how* I work (per-turn context, 👍/👎 outcomes, time-by-app) and a Coach turns it into concrete "how to improve" advice; on-device, text-only, no keylogging.
+- Stood up **DCB Research** — renamed from FilingLens into a working corpus platform: semantic search over SEC filings + a federal/state tax corpus, cited summaries on the document detail pane, and an "Ask the corpus" RAG endpoint, with Claude and real embeddings wired behind a BYOK seam.
+- Took **DCB Practice** billing-complete — Time & billing shipped end-to-end (time tracking + budgets, invoices/payments, portal billing, invoice-from-logged-time, client retainers), plus a capacity dashboard, engagement-letter proposals with in-app e-signature, and a portal client↔firm secure-message thread; kicked off the **Business Formation Workflow Assistant** (entity intake → EIN → filing packet).
+- Got **DCB Public** deploy-ready — Render blueprint + DEPLOY.md, an LLM answer cache and per-user rate limiting, full-text library search, saved question history, and prior-revision history for canonical entries.
 
 **This week**
-- Deploy DCB Public live (Render).
-- Dogfood DCB Copilot to accumulate real session data.
+- Ship **DCB Public** live on Render and verify the go-live path.
+- Build out the **Business Formation Workflow Assistant** (open-item tracker, EIN assistant, bilingual client-message generator, filing packet).
+- Grow the **DCB Research** corpus and harden retrieval — it's the source-data backbone DCB Public distills from.
+- Dogfood **DCB Copilot** to accumulate real session data.
 
 **Blockers**
 - The imitation agent (an agent that clones how I approach problems) is gated on accumulating enough real recorded sessions first — no shortcut to the training data.
