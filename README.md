@@ -1,32 +1,32 @@
 ### Hi, I'm Dean 👋
 
-CPA turned software engineer. My background is public accounting and tax (PwC, then CPA consulting) — now I build the tools, and increasingly the *services*, I used to wish existed.
+CPA turned software engineer. My background is public accounting and tax (PwC, then CPA consulting). Now I build the tools, and increasingly the *services*, I used to wish existed.
 
-## 🏛️ DCB — an AI-Native Service Company
+## 🏛️ DCB, an AI-Native Service Company
 
-Not software that *helps* people do the work — agents that **do the work**, proposing reviewable, deterministic changes a human approves. The thesis: the spend on services dwarfs the spend on software, so the bigger opportunity is to **deliver the service, not sell the tool**. The suite:
+Not software that *helps* people do the work. Instead, agents that **do the work**, proposing reviewable, deterministic changes a human approves. The thesis: the spend on services dwarfs the spend on software, so the bigger opportunity is to **deliver the service, not sell the tool**. The suite:
 
-- **DCB Practice** — an AI-native accounting firm: agents run the repetitive tax and accounting work end to end, humans review and approve. The service, delivered as software.
-- **DCB Copilot** — a screen-aware desktop overlay that reads whatever accounting software is on screen and answers in context.
-- **DCB Research** — a research platform over SEC filings, XBRL, and federal/state tax sources; the source-data backbone **DCB Public** distills from.
-- **DCB Public** — a vetted money & investing knowledge base with a citation-grounded AI advisor.
+- **DCB Practice:** an AI-native accounting firm. Agents run the repetitive firm work (tax prep, bookkeeping, document collection, cleanup, review, close) end to end, humans review and approve. The service, delivered as software.
+- **DCB Copilot:** a screen-aware desktop overlay that reads whatever accounting software is on screen and answers in context.
+- **DCB Research:** a research platform over SEC filings, XBRL, and federal/state tax sources, the source-data backbone **DCB Public** distills from.
+- **DCB Public:** a vetted money & investing knowledge base with a citation-grounded AI advisor.
 
 ## 🗓️ Weekly standup
-_Week of Jul 6, 2026_
+_Week of Jul 13, 2026_
 
 **Last week**
-- Stood up **DCB Research** — renamed from FilingLens into a working corpus platform: semantic search over SEC filings + a federal/state tax corpus, cited summaries on the document detail pane, and an "Ask the corpus" RAG endpoint, with Claude and real embeddings wired behind a BYOK seam.
-- Took **DCB Practice** billing-complete — Time & billing shipped end-to-end (time tracking + budgets, invoices/payments, portal billing, invoice-from-logged-time, client retainers), plus a capacity dashboard, engagement-letter proposals with in-app e-signature, and a portal client↔firm secure-message thread; kicked off the **Business Formation Workflow Assistant** (entity intake → EIN → filing packet).
-- Got **DCB Public** deploy-ready — Render blueprint + DEPLOY.md, an LLM answer cache and per-user rate limiting, full-text library search, saved question history, and prior-revision history for canonical entries.
+- **DCB Practice: agents now run unattended and surface work for a human to approve.** Shipped a supervised async agent-job worker (jobs run on their own and propose changes you approve or decline with full trace and replay), then **five jobs** on top of it: missing-document detection, capacity-aware assignment, the **Firm Memory** learning job that turns approved work into reusable know-how (the moat), Client Success follow-up drafts, and a firm-status Operations morning briefing.
+- **Filled out the practice-management surface** the agents operate over: client-intake organizers, recurring engagements with a due-runner, a statutory deadline engine, practice analytics, an IRS-notice / tax-resolution workflow, and the Business Formation assistant (EIN/SS-4 drafts, ownership mapper, filing packet). Plus deploy scaffolding (Render blueprint, Docker) and backend + web e2e tests.
+- **Relaunched the portfolio (public):** rebuilt dingtianding.github.io with per-product DCB system-design and workflow diagrams and **/ask**, a live "grounded vs guessed" demo of the DCB Public thesis. Shipped **Tape**, a new Angular 19 / RxJS live-markets dashboard.
 
 **This week**
-- Ship **DCB Public** live on Render and verify the go-live path.
-- Build out the **Business Formation Workflow Assistant** (open-item tracker, EIN assistant, bilingual client-message generator, filing packet).
-- Grow the **DCB Research** corpus and harden retrieval — it's the source-data backbone DCB Public distills from.
-- Dogfood **DCB Copilot** to accumulate real session data.
+- Take **DCB Public** live on Render and verify the go-live path (carried from last week).
+- Grow the **DCB Research** corpus and harden retrieval, the source-data backbone DCB Public distills from.
+- Keep feeding **Firm Memory** with real approved sessions now that the learning job is in.
+- Dogfood **DCB Copilot** to build up session data.
 
 **Blockers**
-- The imitation agent (an agent that clones how I approach problems) is gated on accumulating enough real recorded sessions first — no shortcut to the training data.
+- The imitation agent (one that clones how I approach problems) still needs a body of real recorded sessions. The Firm Memory learning job shipped this week is the mechanism, but the training data only accrues with use.
 
 🛠️ **Stack I reach for**
 - **Languages:** TypeScript, Python, Java, Ruby
@@ -35,9 +35,9 @@ _Week of Jul 6, 2026_
 - **Cloud / infra:** AWS (EC2, RDS, S3, Lambda, VPC), Docker, GitHub Actions, Nginx
 - **AI:** LLM agents, tool use, RAG, deterministic pipelines
 
-🎓 M.S. Computer Science, Georgia Tech (OMSCS) · App Academy · B.S. Accounting (SUNY Binghamton)
+🎓 M.S. Computer Science, Georgia Tech (OMSCS) · B.S. Accounting (SUNY Binghamton)
 
-🏆 1st place, App Academy 2024 Hackathon (Aurora, an AI wellness app) · built Fire Drill XR at MIT Reality Hack 2024
+🏆 1st place at a 2024 hackathon (Aurora, an AI wellness app) · built Fire Drill XR at MIT Reality Hack 2024
 
 🎮 **Between builds:** hacking on a [Castlevania-style HTML-canvas game](https://dingtianding.github.io/Castlevania97/), and a Kalshi-flavored prediction-market / sports-betting clone.
 
