@@ -20,9 +20,7 @@ Not software that *helps* people do the work. Instead, agents that **do the work
 
 🎓 M.S. Computer Science, Georgia Tech (OMSCS) · B.S. Accounting (SUNY Binghamton)
 
-🏆 1st place at a 2024 hackathon (Aurora, an AI wellness app) · built Fire Drill XR at MIT Reality Hack 2024
-
-🎮 **Between builds:** hacking on a [Castlevania-style HTML-canvas game](https://dingtianding.github.io/Castlevania97/), and a Kalshi-flavored prediction-market / sports-betting clone.
+🎮 **Between builds:** hacking on a [Castlevania-style HTML-canvas game](https://dingtianding.github.io/Castlevania97/).
 
 📫 **Reach me:** [dingtian.ding@gmail.com](mailto:dingtian.ding@gmail.com) · [LinkedIn](https://linkedin.com/in/deanding) · [Portfolio](https://dingtianding.github.io)
 
