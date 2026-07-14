@@ -11,6 +11,23 @@ Not software that *helps* people do the work. Instead, agents that **do the work
 - **DCB Research:** a research platform over SEC filings, XBRL, and federal/state tax sources, the source-data backbone **DCB Public** distills from.
 - **DCB Public:** a vetted money & investing knowledge base with a citation-grounded AI advisor.
 
+🛠️ **Stack I reach for**
+- **Languages:** TypeScript, Python, Java, Ruby
+- **Frontend:** React, Next.js, Vue, Tailwind, Vite
+- **Backend:** FastAPI, Flask, Express, Spring Boot, Rails · PostgreSQL, Redis, SQLAlchemy
+- **Cloud / infra:** AWS (EC2, RDS, S3, Lambda, VPC), Docker, GitHub Actions, Nginx
+- **AI:** LLM agents, tool use, RAG, deterministic pipelines
+
+🎓 M.S. Computer Science, Georgia Tech (OMSCS) · B.S. Accounting (SUNY Binghamton)
+
+🏆 1st place at a 2024 hackathon (Aurora, an AI wellness app) · built Fire Drill XR at MIT Reality Hack 2024
+
+🎮 **Between builds:** hacking on a [Castlevania-style HTML-canvas game](https://dingtianding.github.io/Castlevania97/), and a Kalshi-flavored prediction-market / sports-betting clone.
+
+📫 **Reach me:** [dingtian.ding@gmail.com](mailto:dingtian.ding@gmail.com) · [LinkedIn](https://linkedin.com/in/deanding) · [Portfolio](https://dingtianding.github.io)
+
+---
+
 ## 🗓️ Weekly standup
 _Week of Jul 13, 2026_
 
@@ -27,18 +44,3 @@ _Week of Jul 13, 2026_
 
 **Blockers**
 - The imitation agent (one that clones how I approach problems) still needs a body of real recorded sessions. The Firm Memory learning job shipped this week is the mechanism, but the training data only accrues with use.
-
-🛠️ **Stack I reach for**
-- **Languages:** TypeScript, Python, Java, Ruby
-- **Frontend:** React, Next.js, Vue, Tailwind, Vite
-- **Backend:** FastAPI, Flask, Express, Spring Boot, Rails · PostgreSQL, Redis, SQLAlchemy
-- **Cloud / infra:** AWS (EC2, RDS, S3, Lambda, VPC), Docker, GitHub Actions, Nginx
-- **AI:** LLM agents, tool use, RAG, deterministic pipelines
-
-🎓 M.S. Computer Science, Georgia Tech (OMSCS) · B.S. Accounting (SUNY Binghamton)
-
-🏆 1st place at a 2024 hackathon (Aurora, an AI wellness app) · built Fire Drill XR at MIT Reality Hack 2024
-
-🎮 **Between builds:** hacking on a [Castlevania-style HTML-canvas game](https://dingtianding.github.io/Castlevania97/), and a Kalshi-flavored prediction-market / sports-betting clone.
-
-📫 **Reach me:** [dingtian.ding@gmail.com](mailto:dingtian.ding@gmail.com) · [LinkedIn](https://linkedin.com/in/deanding) · [Portfolio](https://dingtianding.github.io)
