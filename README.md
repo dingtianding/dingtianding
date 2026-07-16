@@ -11,6 +11,8 @@ CPA turned software engineer. My background is public accounting and tax (PwC, t
 
 🎓 M.S. Computer Science, Georgia Tech (OMSCS) · B.S. Accounting (SUNY Binghamton)
 
+🧠 **Also building:** [DD-KB](https://github.com/dingtianding/DD-KB-App), an Obsidian personal knowledge base with a dependency-free local RAG engine (BM25 retrieval, cited answers, and an Obsidian sidebar plugin).
+
 🎮 **Between builds:** hacking on a [Castlevania-style HTML-canvas game](https://dingtianding.github.io/Castlevania97/).
 
 📫 **Reach me:** [dingtian.ding@gmail.com](mailto:dingtian.ding@gmail.com) · [LinkedIn](https://linkedin.com/in/deanding) · [Portfolio](https://dingtianding.github.io)
