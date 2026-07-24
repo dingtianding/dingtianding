@@ -30,18 +30,21 @@ Not software that *helps* people do the work. Instead, agents that **do the work
 - **DCB Public:** a vetted money & investing knowledge base with a citation-grounded AI advisor.
 
 ## 🗓️ Weekly standup
-_Week of Jul 13, 2026_
+_Week of Jul 20, 2026_
 
-**Last week**
-- **DCB Practice: agents now run unattended and surface work for a human to approve.** Shipped a supervised async agent-job worker (jobs run on their own and propose changes you approve or decline with full trace and replay), then **five jobs** on top of it: missing-document detection, capacity-aware assignment, the **Firm Memory** learning job that turns approved work into reusable know-how (the moat), Client Success follow-up drafts, and a firm-status Operations morning briefing.
-- **Filled out the practice-management surface** the agents operate over: client-intake organizers, recurring engagements with a due-runner, a statutory deadline engine, practice analytics, an IRS-notice / tax-resolution workflow, and the Business Formation assistant (EIN/SS-4 drafts, ownership mapper, filing packet). Plus deploy scaffolding (Render blueprint, Docker) and backend + web e2e tests.
-- **Relaunched the portfolio (public):** rebuilt dingtianding.github.io with per-product DCB system-design and workflow diagrams and **/ask**, a live "grounded vs guessed" demo of the DCB Public thesis. Shipped **Tape**, a new Angular 19 / RxJS live-markets dashboard.
+**Since the last standup**
+- Turned **DCB Practice** from a broad practice-management app into a supervised agent workspace: scheduled deadline, missing-document, capacity-assignment, Firm Memory, client-success, intake, and operations jobs now surface reviewable proposals; an iterative goal-directed loop advances only through the existing approve → execute → audit gate. Added recurring work, organizers, deadlines, notices, reporting, monitoring, staff administration, browser E2E coverage, and separate demo/production deployment paths.
+- Made **DCB Research** the suite's shared evidence layer: shipped a versioned, service-authenticated grounding contract with real excerpt citations and PII-safe consumer boundaries, plus company briefs consumed by Public. An eval-gated agentic research loop now reaches **100% retrieval coverage@5 vs. 83% for single-shot RAG** on the same evidence budget.
+- Hardened **DCB Copilot** as a native, privacy-conscious CPA overlay: macOS permission and Keychain handling, a PII-safe workpaper fixture, frontend/Rust CI, capture-scaling tests, and authoritative tax grounding from DCB Research instead of rebuilding the corpus locally.
+- Advanced **DCB Public** from deploy-ready to a fuller subscription product: permanent shared answers, advisor credits, lead capture, Research-backed market briefs, annual pricing, and Stripe-sourced price display.
+- Rebuilt the **portfolio** around the DCB thesis: live `/ask`, a suite one-pager, individual case studies and system diagrams for all four products, clearer privacy/review boundaries, and DD-KB as the supporting Obsidian + local-RAG knowledge system.
 
-**This week**
-- Take **DCB Public** live on Render and verify the go-live path (carried from last week).
-- Grow the **DCB Research** corpus and harden retrieval, the source-data backbone DCB Public distills from.
-- Keep feeding **Firm Memory** with real approved sessions now that the learning job is in.
-- Dogfood **DCB Copilot** to build up session data.
+**Now**
+- Build one end-to-end proof across the suite: Research supplies cited authority → Copilot interprets a fabricated workpaper → Practice receives a proposed review action → a human approves or rejects it with an audit trail.
+- Expand Research's gold set beyond the current SEC fixture into tax questions, refusals, freshness, and claim-to-citation checks; deploy it with production embeddings while preserving the deterministic CI baseline.
+- Record the 60–90 second Copilot demo and expose observed facts, retrieved authority, model inference, and uncertainty as separate evidence layers.
+- Close the Public editorial loop: content-gap question → Research evidence packet → human-reviewed canonical explanation → retrieval regression test.
 
 **Blockers**
-- The imitation agent (one that clones how I approach problems) still needs a body of real recorded sessions. The Firm Memory learning job shipped this week is the mechanism, but the training data only accrues with use.
+- Copilot's imitation agent remains gated on enough real, labeled work sessions; reviewed traces come before training.
+- Research generation-quality scoring needs a configured model key, while the retrieval tier remains deterministic and key-free.
